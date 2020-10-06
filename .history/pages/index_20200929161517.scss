@@ -1,0 +1,21 @@
+.main {
+    width: 90%;
+    margin: auto;
+
+    .header {
+        min-height: 200px;
+        background-color: #DDD;
+    }
+
+    .contents {
+        min-height: 500px;
+        display: flex;
+        background-color: #AAA;
+
+        div {
+            background-color: #ABC;
+            flex: 1 0 100px;
+            height: 100px;
+        }
+    }
+}

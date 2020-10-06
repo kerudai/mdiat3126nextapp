@@ -1,0 +1,83 @@
+
+.app {
+    background-color: rgba(128, 128, 128,0.5);
+}
+
+.graph {
+    background-color: white;
+}
+
+.title {
+    color: #4676e5;
+
+}
+
+.dis_big_box {
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+}
+
+.dis_region {
+    display: flex;
+    flex-direction: row;
+    margin: 0 10px;
+}
+
+.region_small {
+    width: 20px;
+    height: 20px;
+    background-color: #729CF0;
+    border-radius: 5px;
+    margin: 0 10px; 
+}
+
+.dis_national {
+    display: flex;
+    flex-direction: row;
+    margin: 0 10px;
+}
+
+.national_small {
+    width: 20px;
+    height: 20px;
+    background-color: #CEE861;
+    border-radius: 5px;
+    margin: 0 10px; 
+}
+
+.regional_bar {
+    width: 800px;
+    height: 50px;
+    background-color: #729CF0;
+    margin:20px 25px
+}
+
+.national_bar {
+    width: 900px;
+    height: 50px;
+    background-color: #CEE861;
+    margin:20px 25px;
+}
+
+.index_line {
+    width: 1000px;
+    height: 2.5px;
+    background-color: rgb(167, 167, 167);
+    margin:20px 25px;
+}
+
+.box_0 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.line_0 {
+    width: 2.5px;
+    height: 20px;
+    background-color: rgb(167, 167, 167);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

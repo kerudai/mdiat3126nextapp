@@ -1,0 +1,15 @@
+.main {
+    width: 90%;
+    margin: auto;
+
+    .header {
+        min-height: 200px;
+        background-color: #DDD;
+    }
+
+    .content {
+        min-height: 500px;
+        display: flex;
+        background-color: #AAA;
+    }
+}

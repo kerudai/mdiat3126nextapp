@@ -1,0 +1,21 @@
+.title {
+    color: #4676e5;
+
+}
+
+.dis_big_box {
+    display: flex;
+    flex-direction: row;
+}
+
+.dis_region {
+    display: flex;
+    flex-direction: row;
+}
+
+.region_small {
+    width: 20px;
+    height: 20px;
+    background: #729CF0;
+    border-radius: 5px; 
+}

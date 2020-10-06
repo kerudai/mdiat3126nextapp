@@ -1,0 +1,43 @@
+.app {
+    background-color: rgba(128, 128, 128,0.5);
+}
+
+.graph {
+    background-color: white;
+}
+
+.title {
+    color: #4676e5;
+
+}
+
+.dis_big_box {
+    display: flex;
+    flex-direction: row;
+    margin-top: 15px;
+}
+
+.dis_region {
+    display: flex;
+    flex-direction: row;
+}
+
+.region_small {
+    width: 20px;
+    height: 20px;
+    background-color: #729CF0;
+    border-radius: 5px; 
+}
+
+.dis_national {
+    display: flex;
+    flex-direction: row;
+}
+
+.national_small {
+    width: 20px;
+    height: 20px;
+    background-color: #CEE861;
+    border-radius: 5px; 
+}
+
